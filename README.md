@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/loganalytics-BD/LogAnalytics/_apis/build/status/giftman333.pipelines-java?branchName=master)](https://dev.azure.com/loganalytics-BD/LogAnalytics/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
